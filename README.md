@@ -11,7 +11,7 @@ A local VLM batch inspection system built for AMD Radeon hardware to automate se
 * **🎬 Video Demonstration:** [Watch the Technical Walkthrough](https://youtu.be/-PNz3aqsU60)
 * **💻 Core Repository:** [GitHub - Wafer Map Training & Inference](https://github.com/uttarasawantgh/Radeon-hackathon-2026-07)
 * **🖥️ UI Repository:** [Control Center Dashboard](https://huggingface.co/spaces/uttarasawant/amd_radeon_wafer_map_classification)
-
+* **🖥️ Project Description PDF:** [Project Description PDF](https://huggingface.co/spaces/uttarasawant/amd_radeon_wafer_map_classification/resolve/main/Project%20Description%20PDF%20Track%201%20Wafer%20Map%20Classification.pdf)
 ---
 
 ## ⚡ Hardware Telemetry & Benchmarking Highlights
