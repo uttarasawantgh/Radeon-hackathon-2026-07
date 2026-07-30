@@ -1,4 +1,4 @@
-# 🏭 Wafer Map Classification AI Audit System - Track 1
+# ⚙️ Wafer Map Classification AI Audit System - Track 1
 
 A local VLM batch inspection system built for AMD Radeon hardware to automate semiconductor wafer defect classification, spatial failure signature identification, and deterministic JSON auditing.
 
