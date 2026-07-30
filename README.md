@@ -51,3 +51,13 @@ Wafer Detection Dataset. (2024). *Wafer Defect Detection Dataset* (Version 1) [D
 * `batch_audit_amd.py` - Executes full test set evaluation, parsing results into `wafer_batch_inference_summary.json` and `wafer_defect_summary_log.csv`.
 * `wafer_defect_summary_log.csv` - The parsed operational risk matrices displayed on the audit dashboard UI.
 * `wafer_batch_inference_summary.json` - The inference results for the image batch.
+---
+
+### 🤝 Acknowledgments & Tools
+
+This project was developed through a structured technical pipeline with support from the following tools:
+* Gemini: Utilized as an AI collaborator for architectural troubleshooting, debugging complex structural normalization logic, and optimizing code documentation
+* AMD Developer Cloud & PyTorch ROCm: Provided the high-performance local compute environment necessary for model fine-tuning and infrastructure benchmarking
+* Modal: Served as the secondary repository for datasets and weights 
+* Roboflow: Computer-vision datasets for fine-tuning
+* Hugging Face Spaces: Hosting the user interface to read compliance logs and time series data output from inferencing by AMD on fine-tuned models
